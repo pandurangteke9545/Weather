@@ -27,4 +27,5 @@ A simple weather forecast app built with **React** (Vite), using the **OpenWeath
 
 1. **Clone the repository**
    ```bash
- 
+   git clone https://github.com/your-username/weather-app.git
+   cd weather-app
