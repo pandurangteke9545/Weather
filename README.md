@@ -1,21 +1,30 @@
-Weather Application
-This is a simple Weather Application built using React with Vite, which fetches real-time weather data from the OpenWeatherMap API. Users can enter a city name to see the current temperature, weather description, and a temperature-based progress bar.
+# 🌦 Weather Application
 
- Features
-🔍 Search weather by city name
+A simple weather forecast app built with **React** (Vite), using the **OpenWeatherMap API**. It displays the current temperature, weather description, and an icon for the searched city. A progress bar also shows the temperature visually.
 
-🌡 Displays temperature in Celsius
+---
 
-📊 Dynamic bar showing temperature scale
+## 🚀 Features
 
-🌤 Weather condition icon and description
+- 🔍 Search for weather by city name
+- 🌡 Temperature displayed in Celsius
+- 📊 Temperature progress bar
+- 🌤 Weather icon and description
+- ⚛️ Built using React `useState` hook
 
-🧠 Built using React's useState hook
+---
 
-🛠 Tech Stack
-Frontend: React (Vite)
+## 🛠 Tech Stack
 
-API: OpenWeatherMap API
+- **React (Vite)**
+- **Axios** for API requests
+- **CSS** for styling
+- **OpenWeatherMap API**
 
-Styling: CSS
+---
 
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+ 
